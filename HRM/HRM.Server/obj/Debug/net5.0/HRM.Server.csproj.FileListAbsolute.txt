@@ -1,11 +1,3 @@
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.csprojAssemblyReference.cache
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.GeneratedMSBuildEditorConfig.editorconfig
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.AssemblyInfoInputs.cache
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.AssemblyInfo.cs
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.csproj.CoreCompileInputs.cache
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.MvcApplicationPartsAssemblyInfo.cache
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.RazorAssemblyInfo.cache
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.RazorAssemblyInfo.cs
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\bin\Debug\net5.0\Properties\launchSettings.json
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\bin\Debug\net5.0\HRM.App.StaticWebAssets.xml
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\bin\Debug\net5.0\appsettings.Development.json
@@ -61,6 +53,14 @@ D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\bin\Debug\net5.0\HRM.App.dl
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\bin\Debug\net5.0\HRM.Shared.dll
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\bin\Debug\net5.0\HRM.App.pdb
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\bin\Debug\net5.0\HRM.Shared.pdb
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.csprojAssemblyReference.cache
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.AssemblyInfoInputs.cache
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.AssemblyInfo.cs
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.csproj.CoreCompileInputs.cache
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.RazorAssemblyInfo.cache
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\HRM.Server.RazorAssemblyInfo.cs
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\staticwebassets\HRM.Server.StaticWebAssets.Manifest.cache
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\staticwebassets\HRM.Server.StaticWebAssets.xml
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Server\obj\Debug\net5.0\scopedcss\bundle\HRM.Server.styles.css

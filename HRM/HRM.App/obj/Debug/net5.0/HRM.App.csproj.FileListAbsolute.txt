@@ -2068,10 +2068,16 @@ D:\Labs\.Net\BlazorLab\2.Data\HRM\HRM.App\obj\Debug\net5.0\HRM.App.csproj.CopyCo
 D:\Labs\.Net\BlazorLab\2.Data\HRM\HRM.App\obj\Debug\net5.0\HRM.App.dll
 D:\Labs\.Net\BlazorLab\2.Data\HRM\HRM.App\obj\Debug\net5.0\ref\HRM.App.dll
 D:\Labs\.Net\BlazorLab\2.Data\HRM\HRM.App\obj\Debug\net5.0\HRM.App.pdb
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\Properties\launchSettings.json
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\HRM.App.StaticWebAssets.xml
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\HRM.App.deps.json
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\HRM.App.runtimeconfig.json
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\HRM.App.runtimeconfig.dev.json
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\HRM.App.dll
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\ref\HRM.App.dll
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\HRM.App.pdb
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\HRM.Shared.dll
+D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\HRM.Shared.pdb
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\obj\Debug\net5.0\HRM.App.csprojAssemblyReference.cache
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\obj\Debug\net5.0\HRM.App.GeneratedMSBuildEditorConfig.editorconfig
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\obj\Debug\net5.0\HRM.App.AssemblyInfoInputs.cache
@@ -2116,10 +2122,4 @@ D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\obj\Debug\net5.0\HRM.App.cspro
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\obj\Debug\net5.0\HRM.App.dll
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\obj\Debug\net5.0\ref\HRM.App.dll
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\obj\Debug\net5.0\HRM.App.pdb
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\Properties\launchSettings.json
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\HRM.App.deps.json
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\HRM.App.runtimeconfig.json
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\HRM.App.runtimeconfig.dev.json
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\HRM.Shared.dll
-D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\bin\Debug\net5.0\HRM.Shared.pdb
 D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\obj\Debug\net5.0\HRM.App.genruntimeconfig.cache

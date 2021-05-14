@@ -219,13 +219,13 @@
       "netstandard.dll": "sha256-stWPH7tpmfc4JFroiKGKWcPfLQ+ALD6yQUXA9NiV0fQ=",
       "System.Private.CoreLib.dll": "sha256-PbMTdb+kswRpFmuD8S4hY70nkZ9LeYJg7y3wm7hj0CQ=",
       "HRM.App.dll": "sha256-BtlQdxvoeOs9KZ1mIReOkvIA+FVtaMryHinqlKBJiJs=",
-      "HRM.Shared.dll": "sha256-2wfDGEyDEsB8R+62lr1gCbvhYtj7vqjU4k7Jo4ZYwN8=",
+      "HRM.Shared.dll": "sha256-R08b3R3+jchqobeqwI+1X5eO5JgeyR0u\/Y9lxi37iGQ=",
       "HRM.Client.dll": "sha256-x7aouc2btsC0X48ghEc4dNdKES5EfcdG5EvX1Mbr7pc="
     },
     "lazyAssembly": null,
     "pdb": {
       "HRM.App.pdb": "sha256-euH2WJH725AKkJigWubzA8wgkmbzWLbczRWrLVkACFQ=",
-      "HRM.Shared.pdb": "sha256-+Vj1fgEc6+0JGzdB6zvCkHjqcSnmm7Sq6Jaz8QBugdo=",
+      "HRM.Shared.pdb": "sha256-+gACy1G3F49+k4ChWRTlnxNpb5OGdJCdbX\/Ibqt4m4s=",
       "HRM.Client.pdb": "sha256-fz\/b+sBcVTPm40xgIG9gXM5ziC0juVvg2GQE+E1VN18="
     },
     "runtime": {
