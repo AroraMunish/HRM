@@ -1,0 +1,46 @@
+﻿@page "/bindingex/{EmployeeId}"
+
+
+<div class="d-flex justify-content-center border rounded border-success bg-primary text-white font-weight-bold">
+    <p> One Way Binding on Labels</p>
+</div>
+<div class="border rounded border-success">
+    First Name: <label class="col-form-label">@Employee.FirstName</label>
+    <br />
+    Last Name: <label class="col-form-label">@Employee.LastName</label>
+</div>
+<br />
+
+<div class="d-flex justify-content-center border rounded border-success bg-primary text-white font-weight-bold">
+    <p> One Way Binding on Form Controls</p>
+</div>
+<div class="border rounded border-success">
+    First Name: <input value="@Employee.FirstName" />
+    <br />
+    Last Name: <input value="@Employee.LastName" />
+</div>
+
+<br />
+<div class="d-flex justify-content-center border rounded border-success bg-primary text-white font-weight-bold">
+    <p> Two Way Binding on Form Controls</p>
+</div>
+<div class="border rounded border-success">
+    First Name: <input @bind="@Employee.FirstName" />
+    <br />
+    Last Name: <input @bind="@Employee.LastName" />
+</div>
+
+<br />
+<div class="d-flex justify-content-center border rounded border-success bg-primary text-white font-weight-bold">
+    <p> Two Way Binding using Event</p>
+</div>
+<div class="border rounded border-success">
+    First Name: <input @bind-value="@Employee.FirstName" @bind-value:event="oninput" />
+    <br />
+    Last Name: <input @bind-value="@Employee.LastName" @bind-value:event="oninput"/>
+</div>
+<br/>
+<div class="d-flex justify-content-center">
+    <button class="btn btn-danger" @onclick="btnLowerCase_Click">Change Name to Lowercase</button>
+
+</div>

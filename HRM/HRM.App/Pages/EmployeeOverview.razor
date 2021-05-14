@@ -1,0 +1,58 @@
+﻿@page "/employeeoverview"
+@*<div class="col-12 d-flex justify-content-center row border-success rounded bg-primary text-white font-weight-bold">*@
+<div class="d-flex justify-content-center border rounded border-success bg-primary text-white font-weight-bold">
+    <p>&nbsp;List of Employees</p>
+</div>
+<div>
+    <p class="p-0 m-0">&nbsp;</p>
+</div>
+
+
+@if (Employees == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+<div class="border rounded border-success">
+    <a href="@($"employeeedit")" class="btn btn-dark table-btn">
+        <i >Add Employee</i>
+    </a>
+    <table class="table table-striped">
+        <thead class="bg-primary text-white">
+            <tr>
+                <th>Employee ID</th>
+                <th>First name</th>
+                <th>Last name</th>
+                <th colspan="2" class="text-center">Details</th>
+                <th>Binding Ex</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var employee in Employees)
+            {
+                <tr>
+                    <td>@employee.EmployeeId</td>
+                    <td>@employee.FirstName</td>
+                    <td>@employee.LastName</td>
+                    <td>
+                        <a href="@($"employeedetail/{employee.EmployeeId}")" class="btn btn-success table-btn">
+                            <i class="fas fa-info-circle">View Details</i>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="@($"employeeedit/{employee.EmployeeId}")" class="btn btn-danger table-btn">
+                            <i class="fas fa-info-circle">Edit</i>
+                        </a>
+                    </td>
+                    <td>
+                        <a href="@($"bindingex/{employee.EmployeeId}")" class="btn btn-primary table-btn">
+                            <i class="fas fa-info-circle">Display Binding</i>
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+}

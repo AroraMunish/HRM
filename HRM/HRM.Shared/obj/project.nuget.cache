@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DmtWorcfW6/UofBwkVVhDVJlDDffS3MuxMFPvbR6EFsTYGjkUgYyJoayxj0Nkqq+9D93UihfPD3giDfFuFJ77Q==",
+  "success": true,
+  "projectFilePath": "D:\\Labs\\.Net\\BlazorLab\\3.ServerSideDm\\HRM\\HRM.Shared\\HRM.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Munish\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

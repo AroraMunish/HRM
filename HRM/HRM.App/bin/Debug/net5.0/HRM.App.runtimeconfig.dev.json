@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Munish\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Munish\\.nuget\\packages"
+    ]
+  }
+}

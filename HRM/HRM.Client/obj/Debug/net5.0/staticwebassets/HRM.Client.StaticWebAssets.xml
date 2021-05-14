@@ -1,0 +1,6 @@
+﻿<StaticWebAssets Version="1.0">
+  <ContentRoot BasePath="/" Path="D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Client\bin\Debug\net5.0\wwwroot\" />
+  <ContentRoot BasePath="/" Path="D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.Client\obj\Debug\net5.0\scopedcss\bundle\" />
+  <ContentRoot BasePath="_content/HRM.App" Path="D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\obj\Debug\net5.0\scopedcss\projectbundle\" />
+  <ContentRoot BasePath="_content/HRM.App" Path="D:\Labs\.Net\BlazorLab\3.ServerSideDm\HRM\HRM.App\wwwroot\" />
+</StaticWebAssets>
